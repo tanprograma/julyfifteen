@@ -1,5 +1,5 @@
 export const environment = {
-  title: 'stigoRX',
+  title: 'stigoRXOLD',
   medicines_url: 'https://julyfifteenapi.onrender.com/api/medicines',
   clients_url: 'https://julyfifteenapi.onrender.com/api/clients',
   inventories_url: 'https://julyfifteenapi.onrender.com/api/inventories',
